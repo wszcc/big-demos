@@ -1,0 +1,25 @@
+html,body,#app{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    min-width: 1366px;
+}
+
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.el-card{
+    box-shadow: 0 1px 2px #CECECF !important;
+}
+/* .el-step__title{
+    font-size: 13px;
+} */
+
+.el-steps{
+    margin-top: 15px;
+}
